@@ -45,8 +45,8 @@ plot(fVals,Px,'LineSmoothing','on','LineWidth',1);
 title('One Sided Power Spectral Density');
 ylabel('Power spectral density');
 xlabel('Frequency (Hz)');
-axis([0 10+f  0 mp]);
-
+axis([0 f  0 mp]);
+grid on;
 print('sinefft','-dpng');
 %http://www.gaussianwaves.com/2014/07/how-to-plot-fft-using-matlab-fft-of-b
 %asic-signals-sine-and-cosine-waves/
