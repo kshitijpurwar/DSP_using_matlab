@@ -15,3 +15,4 @@ title(['Amplitude Response of a 8th order butterworth bandpass filter with band 
 xlabel('Frequency (rad/sample)');
 ylabel('Phase (rad)');
 grid on;
+zplane(b,a)
