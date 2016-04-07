@@ -1,4 +1,4 @@
-%Butterworth filter type
+%Chebyshev filter type
 clear all;
 %Low pass Filter
 [b_low a_low]=cheby1(3,1,.3,'low');
