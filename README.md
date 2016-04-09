@@ -2,6 +2,8 @@
 ---
 ## This repo consists programs made on MATLAB for digital signal processing (DSP) undergraduate course. 
 
+## The Book based on the code along with all the explanation can be found on [DSP gitbook](https://www.gitbook.com/book/kshitijpurwar/dsp-lab-file/details)
+
 #### Basic Signals folder has 6 basic signals along with their graphs in both continuous and discrete form. 
 1. Unit step (**heaviside**) 
 2. Unit ramp 
