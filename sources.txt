@@ -1,4 +1,4 @@
 https://dadorran.wordpress.com/2013/10/18/filter-design-using-matlab-demo/
 https://www.diva-portal.org/smash/get/diva2:630301/FULLTEXT02.pdf
 http://www.gaussianwaves.com/category/signal-processing/
-/http://www.phys.nsu.ru/cherk/fft.pdf
+http://www.phys.nsu.ru/cherk/fft.pdf
